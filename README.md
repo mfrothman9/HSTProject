@@ -1,1 +1,1 @@
-# HSTProject
+# HST Project
